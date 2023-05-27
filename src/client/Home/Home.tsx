@@ -15,7 +15,7 @@ const Home = () => {
 
     return (
         <div className="home">
-            <div className="header">Hola Clase!!"</div>
+            <div className="header">chale jaja!!"</div>
             <div className="body">Vamos Empezando!</div>
 
             <button 
